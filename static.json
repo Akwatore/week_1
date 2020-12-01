@@ -1,26 +1,26 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "Akwa",
+      "X-Author": "Akwatore",
       "Access-Control-Allow-Origin": "*"
     },
     "/login/": {
-      "X-Author": "Akwa",
+      "X-Author": "Akwatore",
       "Content-Type": "text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
     },
     "/sample/": {
-      "X-Author": "Akwa",
+      "X-Author": "Akwatore",
       "Content-Type": "text/plain",
       "Access-Control-Allow-Origin": "*"
     },
     "/promise/": {
-      "X-Author": "Akwa",
+      "X-Author": "Akwatore",
       "Content-Type": "text/plain",
       "Access-Control-Allow-Origin": "*"
     },
     "/fetch/": {
-      "X-Author": "Akwa",
+      "X-Author": "Akwatore",
       "Content-Type": "text/html; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
     }
