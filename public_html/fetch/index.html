@@ -6,13 +6,15 @@
   <input id="inp"></input>
   <button id="bt" onclick="sent()">Sent</button>
  </form>
- <script>
-		function sent() {
-		  const URL = document.querySelector('#inp').value;
-			 f = res => String(res);
-			 fetch(URL, )
-				  .then(URL.value = String(f));
-		}
-	</script>
+	
  </body>
+ <script>
+  const inp = document.querySelector('#inp');
+  document.querySelector('#bt').addEventListener('click', () => {
+  fetch(inp.value, )
+   .then((x => {
+    x.text().then(x1 => inp.value = x1);
+    }))
+  });
+</script>
 </html>
