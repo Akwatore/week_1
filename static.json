@@ -21,7 +21,7 @@
     },
     "/fetch/": {
       "X-Author": "Akwatore",
-      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Type": "text/html",
       "Access-Control-Allow-Origin": "*"
     }
   }
