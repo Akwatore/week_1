@@ -8,7 +8,7 @@
 ![week1](https://github.com/Akwatore/sait/blob/master/week1.jpg)
 
 - **week2**
-![week2](https://github.com/Akwatore/sait/blob/master/week1.jpg)
+![week2](https://github.com/Akwatore/sait/blob/master/week2.jpg)
 
 - **week3**
-![week3](https://github.com/Akwatore/sait/blob/master/week1.jpg)
+![week3](https://github.com/Akwatore/sait/blob/master/week3.jpg)
